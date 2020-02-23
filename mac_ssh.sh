@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "=========================================="
-echo "Set ssh id_rsa to ssh MacBok key"
+echo "Set ssh id_rsa"
 echo "=========================================="
 
 cat id_rsa_macbook > ~/.ssh/id_rsa
